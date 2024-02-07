@@ -23,7 +23,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/timmy0402/) or shoot me an email at timmy@example.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/minh-nhat-huynh/) or shoot me an email at minhnhathb04@gmail.com.
 
 ---
 
