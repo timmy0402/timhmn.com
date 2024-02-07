@@ -1,5 +1,3 @@
-Certainly! Here's a basic **README** template for the **"timhmn.com"** repository:
-
 ---
 
 # timhmn.com
