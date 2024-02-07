@@ -1,5 +1,3 @@
----
-
 # timhmn.com
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences. Feel free to explore the site and learn more about me.
